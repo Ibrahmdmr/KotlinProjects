@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782443827135",
+    "project_id": "egitim-udemy",
+    "storage_bucket": "egitim-udemy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782443827135:android:ba96fcf9323bd236085b0a",
+        "android_client_info": {
+          "package_name": "com.example.xyz.sozlukuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782443827135-jdhfjub18fsk4vkbckusrinqa22q64o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj1pOX1BGvmnDptW7g8ejYg_TKRIa6St4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782443827135-jdhfjub18fsk4vkbckusrinqa22q64o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
